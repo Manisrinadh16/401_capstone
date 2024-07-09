@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@freepi/unsplash": "^3.0.1",
+    "firebase-admin": "^12.0.0",
+    "images": "^3.2.4",
+    "node-telegram-bot-api": "^0.64.0",
+    "request": "^2.88.2"
+  }
+}
